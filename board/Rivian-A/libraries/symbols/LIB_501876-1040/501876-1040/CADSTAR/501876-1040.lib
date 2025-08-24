@@ -1,0 +1,18 @@
+.501876-1040 :1 ;MOLEX - 501876-1040 - CONNECTOR, HEADER, 10POS, 2ROW, 2MM
+"5018761040"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10"
+*MXP 10
+*DFN 501876-1040
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (501876-1040)
+~!Mouser Part Number (538-501876-1040)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/501876-1040?qs=AcmJtBVhzkQczlxxv9VM0w%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.farnell.com/datasheets/2697009.pdf)
+~!Height (8.3mm)
+~!3D_Model (501876-1040)
+"501876-1040"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

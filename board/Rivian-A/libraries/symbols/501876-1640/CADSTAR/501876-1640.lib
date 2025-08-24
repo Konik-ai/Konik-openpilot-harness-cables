@@ -1,0 +1,18 @@
+.501876-1640 :1 ;Headers & Wire Housings IGRID 16P RA HDR DUAL ROW
+SHDRRA16W50P200_2X8_1800X1450X830P
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="13" 14="14" 15="15" 16="16"
+*MXP 16
+*DFN 501876-1640
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (501876-1640)
+~!Mouser Part Number (538-501876-1640)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/501876-1640?qs=AcmJtBVhzkQu5SG65mNYcQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.molex.com/pdm_docs/sd/5018761640_sd.pdf)
+~!Height (8.3mm)
+~!3D_Model (501876-1640)
+"501876-1640"
+1.1!U 3.1!U 5.1!U 7.1!U 9.1!U 11.1!U 13.1!U 15.1!U 2.1!U 4.1!U 6.1!U 8.1!U 10.1!U 12.1!U 14.1!U 16.1!U 

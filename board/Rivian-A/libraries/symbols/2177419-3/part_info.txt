@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=2177419-3
+PartCategory=Connector
+PackageCategory=Other
+PinCount=32
+Version=3.4
+Released=2017-12-09 11:21:45
+Downloaded=2025-08-21 09:04:24
+3D=Y

@@ -1,0 +1,55 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 2177419-3
+#/309256/1445401/2.50/32/2/Connector
+DEF 2177419-3 J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "2177419-3" 750 200 50 H V L CNN
+F2 "21774193" 750 100 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=114-94160&DocType=Specification%20Or%20Standard&DocLang=English&DocFormat=pdf&PartCntxt=2177419-3" 750 0 50 H I L CNN
+F4 "PCB Mount Header, Horizontal, Wire-to-Board, 32 Position, 1.8 mm [.071 in] Centerline, Fully Shrouded, Tin, Through Hole - Solder, Signal, Nano MQS" 750 -100 50 H I L CNN "Description"
+F5 "12.6" 750 -200 50 H I L CNN "Height"
+F6 "TE Connectivity" 750 -300 50 H I L CNN "Manufacturer_Name"
+F7 "2177419-3" 750 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "571-2177419-3" 750 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/2177419-3?qs=N0TJGnUfxCAiqmcwF5KK1g%3D%3D" 750 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "2177419-3" 750 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/2177419-3/te-connectivity" 750 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 -1300 200 R 50 50 0 0 P
+X 2 2 0 -1200 200 R 50 50 0 0 P
+X 3 3 0 -1100 200 R 50 50 0 0 P
+X 4 4 0 -1000 200 R 50 50 0 0 P
+X 5 5 0 -900 200 R 50 50 0 0 P
+X 6 6 0 -800 200 R 50 50 0 0 P
+X 7 7 0 -700 200 R 50 50 0 0 P
+X 8 8 0 -600 200 R 50 50 0 0 P
+X 9 9 0 -500 200 R 50 50 0 0 P
+X 10 10 0 -400 200 R 50 50 0 0 P
+X 11 11 0 -300 200 R 50 50 0 0 P
+X 12 12 0 -200 200 R 50 50 0 0 P
+X 13 13 0 -100 200 R 50 50 0 0 P
+X 14 14 0 0 200 R 50 50 0 0 P
+X 15 15 900 0 200 L 50 50 0 0 P
+X 16 16 900 -100 200 L 50 50 0 0 P
+X 17 17 900 -200 200 L 50 50 0 0 P
+X 18 18 900 -300 200 L 50 50 0 0 P
+X 19 19 900 -400 200 L 50 50 0 0 P
+X 20 20 900 -500 200 L 50 50 0 0 P
+X 21 21 900 -600 200 L 50 50 0 0 P
+X 22 22 900 -700 200 L 50 50 0 0 P
+X 23 23 900 -800 200 L 50 50 0 0 P
+X 24 24 900 -900 200 L 50 50 0 0 P
+X 25 25 900 -1000 200 L 50 50 0 0 P
+X 26 26 900 -1100 200 L 50 50 0 0 P
+X 27 27 900 -1200 200 L 50 50 0 0 P
+X 28 28 900 -1300 200 L 50 50 0 0 P
+X 29 29 900 -1400 200 L 50 50 0 0 P
+X 30 30 900 -1500 200 L 50 50 0 0 P
+X 31 31 900 -1600 200 L 50 50 0 0 P
+X 32 32 900 -1700 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -1800 200 -1800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

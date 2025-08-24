@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=501876-1640
+PartCategory=Connector
+PackageCategory=Header, Shrouded - Right Angle PTH Box
+PinCount=16
+Version=3.1
+Released=2018-12-03 10:27:32
+Downloaded=2025-08-21 09:35:15
+3D=Y

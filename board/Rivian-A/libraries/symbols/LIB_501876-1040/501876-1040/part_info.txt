@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=501876-1040
+PartCategory=Connector
+PackageCategory=Other
+PinCount=10
+Version=1.2
+Released=2019-01-26 22:55:22
+Downloaded=2025-08-21 09:59:18
+3D=Y
