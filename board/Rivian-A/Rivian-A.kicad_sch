@@ -10,6 +10,218 @@
 		(comment 3 "1 / 1")
 	)
 	(lib_symbols
+		(symbol "CL31B105KBHNNNE:CL31B105KBHNNNE"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 8.89 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "CL31B105KBHNNNE"
+				(at 8.89 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "Rivian_Footprint:CAPC3216X180N"
+				(at 8.89 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/5cd9a1c15dad09a7278f50cb1a2e4a6e.pdf"
+				(at 8.89 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Samsung Electro-Mechanics 1uF Multilayer Ceramic Capacitor MLCC 50V dc +/-10% X7R Dielectric 1206 (3216M) SMD"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.8"
+				(at 8.89 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "SAMSUNG"
+				(at 8.89 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "CL31B105KBHNNNE"
+				(at 8.89 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "187-CL31B105KBHNNNE"
+				(at 8.89 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL31B105KBHNNNE?qs=349EhDEZ59oPJzVuH4J5mw%3D%3D"
+				(at 8.89 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" "CL31B105KBHNNNE"
+				(at 8.89 -896.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/cl31b105kbhnnne/samsung-electro-mechanics?utm_currency=USD&region=europe"
+				(at 8.89 -996.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "CL31B105KBHNNNE_1_1"
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 5.588 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.588 2.54) (xy 5.588 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 2.54) (xy 7.112 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Molex_sym:2177419-3"
 			(pin_names
 				(offset 0.762)
@@ -17,23 +229,25 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J2"
-				(at 11.43 7.62 0)
+			(property "Reference" "J"
+				(at 8.89 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
 			(property "Value" "2177419-3"
-				(at 11.43 5.08 0)
+				(at 8.89 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
-			(property "Footprint" "Connectors_Molex:21774193"
+			(property "Footprint" "Rivian_Footprint:21774193"
 				(at -3.81 27.94 0)
 				(effects
 					(font
@@ -591,7 +805,7 @@
 						)
 					)
 				)
-				(pin passive line
+				(pin power_out line
 					(at 22.86 -12.7 180)
 					(length 5.08)
 					(name "GND"
@@ -763,7 +977,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "5018761040"
+			(property "Footprint" "Rivian_Footprint:5018761040_Connector_Molex"
 				(at 7.62 33.02 0)
 				(effects
 					(font
@@ -1077,25 +1291,23 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J"
-				(at 11.43 6.35 0)
+			(property "Reference" "J1"
+				(at 11.43 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
 			(property "Value" "501876-1640"
-				(at 5.08 8.89 0)
+				(at 11.43 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Footprint" "SHDRRA16W50P200_2X8_1800X1450X830P"
+			(property "Footprint" "Rivian_Footprint:5018761640_Connector_Molex"
 				(at 3.81 25.4 0)
 				(effects
 					(font
@@ -1202,26 +1414,6 @@
 					)
 					(justify left)
 					(hide yes)
-				)
-			)
-			(symbol "501876-1640_0_0"
-				(pin passive line
-					(at 22.86 -2.54 180)
-					(length 5.08)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
 				)
 			)
 			(symbol "501876-1640_0_1"
@@ -1394,6 +1586,24 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -2.54 180)
+					(length 5.08)
+					(name "PT1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2508,6 +2718,16 @@
 		)
 		(uuid "c95077d6-84f6-483b-bb01-905b343d005b")
 	)
+	(wire
+		(pts
+			(xy 154.94 124.46) (xy 160.02 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca9dfa5a-8c6b-4c5d-a59e-4378ab671a2a")
+	)
 	(bus
 		(pts
 			(xy 83.82 72.39) (xy 83.82 74.93)
@@ -2599,7 +2819,7 @@
 		(uuid "0d484693-8634-4eca-b497-1e4405b6c5d4")
 	)
 	(label "CAN1_H"
-		(at 124.46 128.27 180)
+		(at 93.98 128.27 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2619,7 +2839,7 @@
 		(uuid "19a008d5-ab45-47a1-8f44-739f943db082")
 	)
 	(label "CAN1_L"
-		(at 147.32 128.27 0)
+		(at 116.84 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2639,7 +2859,7 @@
 		(uuid "3d9544d5-cbe7-4285-a88a-480a4f0d23b6")
 	)
 	(label "PT1"
-		(at 124.46 130.81 180)
+		(at 93.98 130.81 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2689,7 +2909,7 @@
 		(uuid "41d7b3b5-09e8-4009-9b16-63269e63ef8d")
 	)
 	(label "PT11"
-		(at 147.32 130.81 0)
+		(at 116.84 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2739,7 +2959,7 @@
 		(uuid "5f5494ad-0942-4d9a-a7c0-a844ae54e438")
 	)
 	(label "PT6"
-		(at 147.32 125.73 0)
+		(at 116.84 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2769,7 +2989,7 @@
 		(uuid "86f0c0ad-7521-4ecb-b2d6-ea93cc17c4de")
 	)
 	(label "PT4"
-		(at 124.46 125.73 180)
+		(at 93.98 125.73 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2808,8 +3028,18 @@
 		)
 		(uuid "8e126a95-626b-4e32-92b1-e60e48b6c804")
 	)
+	(label "12V"
+		(at 142.24 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9c9317b5-a540-4450-ac87-47a9834543a2")
+	)
 	(label "PT7"
-		(at 124.46 120.65 180)
+		(at 93.98 120.65 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2839,7 +3069,7 @@
 		(uuid "ac2615df-66ce-4080-af70-e65210b33945")
 	)
 	(label "PT9"
-		(at 124.46 123.19 180)
+		(at 93.98 123.19 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2919,7 +3149,7 @@
 		(uuid "dda0e164-dd8f-44d2-a7d4-2414c84d71ba")
 	)
 	(label "PT10"
-		(at 147.32 123.19 0)
+		(at 116.84 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2939,7 +3169,7 @@
 		(uuid "dfffb9c6-4811-4939-925e-013454e939e1")
 	)
 	(label "PT8"
-		(at 147.32 120.65 0)
+		(at 116.84 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3030,7 +3260,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Molex_sym:501876-1040")
-		(at 124.46 120.65 0)
+		(at 93.98 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3038,7 +3268,7 @@
 		(dnp no)
 		(uuid "1ac82cc6-0393-4315-b73a-7aeb9fa5507e")
 		(property "Reference" "J3"
-			(at 134.62 113.03 0)
+			(at 104.14 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3047,7 +3277,7 @@
 			)
 		)
 		(property "Value" "501876-1040"
-			(at 129.54 115.57 0)
+			(at 99.06 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3055,8 +3285,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connectors_Molex:5018761040"
-			(at 132.08 87.63 0)
+		(property "Footprint" "Rivian_Footprint:5018761040_Connector_Molex"
+			(at 101.6 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3066,7 +3296,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.farnell.com/datasheets/2697009.pdf"
-			(at 132.08 90.17 0)
+			(at 101.6 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3076,7 +3306,7 @@
 			)
 		)
 		(property "Description" "MOLEX - 501876-1040 - CONNECTOR, HEADER, 10POS, 2ROW, 2MM"
-			(at 113.03 90.17 0)
+			(at 82.55 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3085,7 +3315,7 @@
 			)
 		)
 		(property "Description_1" "MOLEX - 501876-1040 - CONNECTOR, HEADER, 10POS, 2ROW, 2MM"
-			(at 132.08 92.71 0)
+			(at 101.6 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3095,7 +3325,7 @@
 			)
 		)
 		(property "Height" "8.3"
-			(at 143.51 125.73 0)
+			(at 113.03 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3105,7 +3335,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Molex"
-			(at 143.51 128.27 0)
+			(at 113.03 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3115,7 +3345,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "501876-1040"
-			(at 132.08 100.33 0)
+			(at 101.6 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3125,7 +3355,7 @@
 			)
 		)
 		(property "Mouser Part Number" "538-501876-1040"
-			(at 132.08 102.87 0)
+			(at 101.6 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3135,7 +3365,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/501876-1040?qs=AcmJtBVhzkQczlxxv9VM0w%3D%3D"
-			(at 132.08 105.41 0)
+			(at 101.6 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3145,7 +3375,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 143.51 138.43 0)
+			(at 113.03 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3155,7 +3385,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 143.51 140.97 0)
+			(at 113.03 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3204,6 +3434,146 @@
 		)
 	)
 	(symbol
+		(lib_id "CL31B105KBHNNNE:CL31B105KBHNNNE")
+		(at 142.24 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2f405c1c-6108-4daf-9899-ed17086017fd")
+		(property "Reference" "C1"
+			(at 148.59 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CL31B105KBHNNNE"
+			(at 148.59 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Rivian_Footprint:CAPC3216X180N"
+			(at 151.13 220.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/5cd9a1c15dad09a7278f50cb1a2e4a6e.pdf"
+			(at 151.13 320.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Samsung Electro-Mechanics 1uF Multilayer Ceramic Capacitor MLCC 50V dc +/-10% X7R Dielectric 1206 (3216M) SMD"
+			(at 142.24 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.8"
+			(at 151.13 520.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "SAMSUNG"
+			(at 151.13 620.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B105KBHNNNE"
+			(at 151.13 720.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "187-CL31B105KBHNNNE"
+			(at 151.13 820.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL31B105KBHNNNE?qs=349EhDEZ59oPJzVuH4J5mw%3D%3D"
+			(at 151.13 920.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "CL31B105KBHNNNE"
+			(at 151.13 1020.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/cl31b105kbhnnne/samsung-electro-mechanics?utm_currency=USD&region=europe"
+			(at 151.13 1120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a449bb72-259c-41c2-b8e9-485c877d08f8")
+		)
+		(pin "1"
+			(uuid "243d1999-6a84-47f7-b0cb-7b54c04b3d06")
+		)
+		(instances
+			(project ""
+				(path "/348deaa1-0ed1-4419-8202-a01e5cec5385"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Molex_sym:2177419-3")
 		(at 157.48 69.85 0)
 		(unit 1)
@@ -3229,7 +3599,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connectors_Molex:21774193"
+		(property "Footprint" "Rivian_Footprint:21774193"
 			(at 153.67 41.91 0)
 			(effects
 				(font
@@ -3444,6 +3814,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 160.02 124.46 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "54fd1e27-374b-4565-a0a3-b8fd59a4d450")
+		(property "Reference" "#PWR02"
+			(at 166.37 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 157.226 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 160.02 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 160.02 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8505e37c-1230-410a-a6a6-734240e2ef05")
+		)
+		(instances
+			(project "Rivian-A"
+				(path "/348deaa1-0ed1-4419-8202-a01e5cec5385"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Molex_sym:501876-1640")
 		(at 92.71 90.17 0)
 		(mirror x)
@@ -3469,7 +3905,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connectors_Molex:SHDRRA16W50P200_2X8_1800X1450X830P"
+		(property "Footprint" "Rivian_Footprint:5018761640_Connector_Molex"
 			(at 96.52 115.57 0)
 			(effects
 				(font

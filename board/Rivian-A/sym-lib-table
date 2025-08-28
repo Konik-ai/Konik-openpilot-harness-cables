@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CL31B105KBHNNNE")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/CL31B105KBHNNNE/KiCad/CL31B105KBHNNNE.kicad_sym")(options "")(descr ""))
+)
