@@ -1,9 +1,0 @@
-Manufacturer=SAMSUNG
-PartNumber=CL31B105KBHNNNE
-PartCategory=Capacitor
-PackageCategory=Capacitor Chip Non-polarised
-PinCount=2
-Version=2.1
-Released=2018-08-07 05:52:23
-Downloaded=2025-08-28 08:08:51
-3D=Y
