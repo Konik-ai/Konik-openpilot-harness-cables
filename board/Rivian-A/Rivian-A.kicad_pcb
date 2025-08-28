@@ -2957,7 +2957,7 @@
 		(layer "Edge.Cuts")
 		(uuid "f42ae2cb-86f0-4ce8-bbcc-201236fa67df")
 	)
-	(gr_text "Rev. 1.0.0"
+	(gr_text "Rev. ${REVISION}"
 		(at 155 101 0)
 		(layer "B.SilkS")
 		(uuid "716c3c40-941e-498d-9ac5-8b78ee588ea5")
@@ -2982,7 +2982,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "24/08/2025\n"
+	(gr_text "${CURRENT_DATE}"
 		(at 155 103 0)
 		(layer "B.SilkS")
 		(uuid "fa892bad-1987-4ecf-88cb-7a3aeb1ebe7e")
