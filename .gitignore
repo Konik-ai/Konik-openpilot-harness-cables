@@ -1,3 +1,21 @@
 projects/
 .env
 board/rivian_a/
+
+
+# KiCad backup & autosave
+*-backups/
+#autosave
+*.kicad_prl
+*.lck
+# Cache
+fp-info-cache
+# Gerbers, drills, fab outputs
+*.gbr
+*.drl
+*.zip
+gerbers/
+jlcpcb/
+# OS cruft
+.DS_Store
+Thumbs.db
