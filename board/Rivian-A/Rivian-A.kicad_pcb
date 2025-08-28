@@ -2793,7 +2793,18 @@
 				(justify mirror)
 			)
 		)
-		(attr board_only exclude_from_pos_files exclude_from_bom)
+		(property "LCSC" ""
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "04299c78-c740-4a00-a423-92db8a15b29b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(fp_poly
 			(pts
 				(xy 1.154269 7.690957) (xy 1.282285 7.518658) (xy 1.307994 7.392677) (xy 1.296622 7.175283) (xy 1.136686 7.022646)
