@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(descr "2177419-3-1")
 	(tags "Connector")
-	(property "Reference" "J2"
+	(property "Reference" "J.."
 		(at -15.3 -13.97 0)
 		(layer "F.SilkS")
 		(uuid "42fe8caa-c8db-4faa-938d-108c7dffb25c")
@@ -17,9 +17,8 @@
 		)
 	)
 	(property "Value" "21774193"
-		(at -15.3 -11.706 0)
+		(at -15.494 -17.272 0)
 		(layer "F.SilkS")
-		(hide yes)
 		(uuid "a5b1d85e-9261-4091-a3b0-fa94dd01048e")
 		(effects
 			(font
@@ -637,7 +636,7 @@
 		(uuid "d20d9c26-bd8b-46a2-93d1-52d1de766235")
 	)
 	(embedded_fonts no)
-	(model "${KICAD_HARNESS_TEMPLATE_RIVIAN}/2177419-3.stp"
+	(model "${KIPRJMOD}/libraries/3dmodels/2177419-3.stp"
 		(offset
 			(xyz -15.29999996 24.21999895 6.459999941)
 		)

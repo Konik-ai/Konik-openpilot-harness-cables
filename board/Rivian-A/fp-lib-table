@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "Connectors_Molex")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints")(options "")(descr ""))
+  (lib (name "Rivian_Footprint")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints")(options "")(descr ""))
 )

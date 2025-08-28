@@ -1,11 +1,11 @@
-(footprint "5018761040"
+(footprint "5018761040_Connector_Molex"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "501876-1040-1")
 	(tags "Connector")
-	(property "Reference" "J3"
+	(property "Reference" "J.."
 		(at -3.65 6.604 0)
 		(layer "F.SilkS")
 		(uuid "0aa757ca-5997-49b8-951a-39afbb2346ed")
@@ -17,9 +17,8 @@
 		)
 	)
 	(property "Value" "5018761040"
-		(at -3.65 3.98 0)
+		(at -3.65 2.032 0)
 		(layer "F.SilkS")
-		(hide yes)
 		(uuid "86b43368-a119-4581-89fd-fdbb2ae861c4")
 		(effects
 			(font
@@ -305,7 +304,7 @@
 		(uuid "1073b094-4082-4b53-b25d-c037bf325414")
 	)
 	(embedded_fonts no)
-	(model "${KICAD_HARNESS_TEMPLATE_RIVIAN}/501876-1040.stp"
+	(model "${KIPRJMOD}/libraries/3dmodels/501876-1040.stp"
 		(offset
 			(xyz -3.99999994 -6.800000089 3.799999895)
 		)

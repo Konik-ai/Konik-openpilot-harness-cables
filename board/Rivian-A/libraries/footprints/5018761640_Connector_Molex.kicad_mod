@@ -1,4 +1,4 @@
-(footprint "SHDRRA16W50P200_2X8_1800X1450X830P"
+(footprint "5018761640_Connector_Molex"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -312,7 +312,7 @@
 		(uuid "41637323-3a82-4d9e-b89d-548f919aa499")
 	)
 	(embedded_fonts no)
-	(model "${KICAD_HARNESS_TEMPLATE_RIVIAN}/501876-1640.stp"
+	(model "${KIPRJMOD}/libraries/3dmodels/501876-1640.stp"
 		(offset
 			(xyz 6.999999895 6.780000108 3.900000037)
 		)
