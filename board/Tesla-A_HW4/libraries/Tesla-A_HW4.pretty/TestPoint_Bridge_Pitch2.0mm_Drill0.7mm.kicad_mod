@@ -1,0 +1,191 @@
+(footprint "TestPoint_Bridge_Pitch2.0mm_Drill0.7mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "wire loop as test point, pitch 2.0mm, hole diameter 0.7mm, wire diameter 0.5mm")
+	(tags "test point wire loop")
+	(property "Reference" "REF**"
+		(at 4.318 0.254 0)
+		(layer "F.SilkS")
+		(uuid "9082a196-c62d-4638-b113-71e7275ef3a9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TestPoint_Bridge_Pitch2.0mm_Drill0.7mm"
+		(at 3.302 -2.794 0)
+		(layer "F.Fab")
+		(uuid "fde6e9aa-a5ff-4234-8fe5-7a18cbca713d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5e2a423-d3dd-4f98-b6b5-b6bb6569f4b0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0978a50a-5ba0-4a34-b68e-fd93c50f27e6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.27 -1.27)
+		(end -1.27 1.27)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9e4d76f3-ab45-4d07-9ebc-a293b0715021")
+	)
+	(fp_line
+		(start -1.27 1.27)
+		(end 8.89 1.27)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "54f68d0b-8bbf-43c7-8556-6666dcf68a14")
+	)
+	(fp_line
+		(start 8.89 -1.27)
+		(end -1.27 -1.27)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f94d77ac-4f3b-4f3c-9fc8-5de72a993278")
+	)
+	(fp_line
+		(start 8.89 1.27)
+		(end 8.89 -1.27)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "acfea697-2db9-4400-8e7f-8b7568e363ec")
+	)
+	(fp_line
+		(start -1.778 1.778)
+		(end -1.778 -1.778)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dc58d1b1-de0f-4d4b-adc9-6f97a9270c8f")
+	)
+	(fp_line
+		(start -1.778 1.778)
+		(end 9.398 1.778)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6782875d-e970-46fd-bdc6-034b889b5133")
+	)
+	(fp_line
+		(start 9.398 -1.778)
+		(end -1.778 -1.778)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b9c4cc7b-3fc6-4f82-87f5-57f69a523752")
+	)
+	(fp_line
+		(start 9.398 -1.778)
+		(end 9.398 1.778)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d64caea1-71e0-41d1-8113-b5815132e64c")
+	)
+	(fp_line
+		(start 7.62 0)
+		(end 0.016 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "87aa7a7d-6f6a-41c9-bffb-5357081a7467")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 3.81 2.794 0)
+		(layer "F.Fab")
+		(uuid "ce12ce3b-2f25-40dd-b165-2df1cbfc3715")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.7 1.7)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a9897a94-2ac1-466c-a4bd-de6914dc0111")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 0)
+		(size 1.7 1.7)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1ea8a88e-6b80-480b-bf9e-38914fd5bb93")
+	)
+	(pad "3" thru_hole circle
+		(at 5.08 0)
+		(size 1.7 1.7)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8a691246-4fac-45d4-a538-ba71c5dbd939")
+	)
+	(pad "4" thru_hole circle
+		(at 7.62 0)
+		(size 1.7 1.7)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "712850c2-954e-40d8-8021-1ffefbefa939")
+	)
+	(embedded_fonts no)
+)

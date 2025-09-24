@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/Library.pretty")(options "")(descr ""))
+  (lib (name "Tesla-A_HW4")(type "KiCad")(uri "${KIPRJMOD}/libraries/Tesla-A_HW4.pretty")(options "")(descr ""))
+)
