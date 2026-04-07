@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Hyundai_board_adapters")(type "KiCad")(uri "${KIPRJMOD}/Hyundai_board_adapters.pretty")(options "")(descr ""))
+)
